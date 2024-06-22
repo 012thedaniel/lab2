@@ -1,0 +1,43 @@
+.flex_column_centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.flex_column_30px {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.flex_column_25px {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+.flex_column_20px {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.flex_column_15px {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.flex_row_15px {
+  display: flex;
+  gap: 15px;
+}
+.flex_column_10px {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.flex_row_10px {
+  display: flex;
+  gap: 10px;
+}
+.flex_column_5px {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}

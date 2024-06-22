@@ -1,0 +1,16 @@
+.post {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-left: 15px;
+  border-left: 2px solid #1B4D3E;
+}
+.user {
+  font-size: 18px;
+  color: #FF5800;
+}
+.data {
+  font-size: 16px;
+  color: rgba(27, 77, 62, 0.5);
+}
